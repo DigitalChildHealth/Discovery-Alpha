@@ -3,10 +3,10 @@ To inform a robust and viable national interop service to support Digital Child 
 
 This respository holds information to support this work.
 
-The approach to the works will be based on the [GOV.UK Service Manual](https://www.gov.uk/service-manual) agile delivery. This defines two initial phases of discovery and alpha.
+The approach to the work will be based on the [GOV.UK Service Manual](https://www.gov.uk/service-manual) agile delivery. This defines two initial phases of discovery and alpha.
 
 ## Discovery Phase
-Given that the Children’s Health Digital Strategy has already involved extensive consultation and user research, the discovery phase will be focused on elaborating and consulting on key requirements (business, functional and technical), where needed. It will not involve any service design or user journey mappings.
+Given that [Healthy Children: Transforming Child Health Information](https://www.england.nhs.uk/wp-content/uploads/2016/11/healthy-children-transforming-child-health-info.pdf) has already involved extensive consultation and user research, the discovery phase will be focused on elaborating and consulting on key requirements (business, functional and technical), where needed. It will not involve any service design or user journey mappings.
 The outputs delivered will be:
 
 1. A comprehensive document that articulates key requirement decisions and elaborations, with appropriate explanatory narratives.
@@ -14,9 +14,9 @@ The outputs delivered will be:
 ## Alpha Phase
 The alpha phase, as defined in GOV.UK Service Manual, will include:
 
-*	build prototypes of your service
-*	test your prototypes with users
-*	demonstrate that the service you want to build is technically possible
+*	Build prototypes of your service
+*	Test your prototypes with users
+*	Demonstrate that the service you want to build is technically possible
 
 For the purposes of the alpha works, users will be considered to be suppliers of systems who will be publishers and/or subscribers of child events.
 The outputs delivered will be:
