@@ -18,7 +18,7 @@ The alpha phase, as defined in GOV.UK Service Manual, will include:
 *	Test your prototypes with users
 *	Demonstrate that the service you want to build is technically possible
 
-For the purposes of the alpha works, users will be considered to be suppliers of systems who will be publishers and/or subscribers of child events.
+For the purposes of the alpha work, users will be considered to be suppliers of systems who will be child events publishers and/or subscribers.
 The outputs delivered will be:
 
 1.	One or more prototypes
