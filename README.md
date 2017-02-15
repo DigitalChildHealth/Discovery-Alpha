@@ -1,5 +1,5 @@
 # Discovery-Alpha
-To inform a robust and viable national interop service to support Digital Child Health, discovery and alpha work is being carried out by NHS Digital in collaboration with a wide range of stakeholders.
+Discovery and alpha work is being carried out by NHS Digital in collaboration with a wide range of stakeholders, to inform a robust and viable national interop service to support Digital Child Health.
 
 This respository holds information to support this work.
 
