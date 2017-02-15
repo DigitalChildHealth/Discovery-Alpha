@@ -39,4 +39,6 @@ The outputs delivered will be:
 ## Repository Contents
 **Contributors.md** - Organisations and individuals who are contributing to the discovery and alpha work.
 
-**Calendar.md** - 
+**Calendar.md** - Calendar of collaboration events.
+
+**/Collaboration Events** -
