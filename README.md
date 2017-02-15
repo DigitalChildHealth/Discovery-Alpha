@@ -49,3 +49,5 @@ The outputs delivered will be:
 **Elaboration** - Folder containing collateral and outputs for each requirement elaboration.
 
 **Prototypes** - Folder containing information about each prototype.
+
+**Outputs** - Folder containing final discovery and alpha work deliverables.
