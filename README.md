@@ -41,4 +41,4 @@ The outputs delivered will be:
 
 **Calendar.md** - Calendar of collaboration events.
 
-**/Collaboration Events** - Folder containing collateral and outputs for each collaboration event.
+**Collaboration Events** - Folder containing collateral and outputs for each collaboration event.
