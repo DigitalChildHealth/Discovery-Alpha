@@ -24,5 +24,4 @@ The outputs delivered will be:
 1.	One or more prototypes
 2.	Documented evaluations of the prototypes from both business and technical viewpoints
 3.	A recommendation, with supporting evidence, of which prototype, if any, is the best viable option to progress to beta phase
-4.	Documented design of the best viable option, in sufficient detail to support approvals by architecture governance
 
