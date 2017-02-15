@@ -37,4 +37,6 @@ The outputs delivered will be:
 **Transparency** - All discussions, communications and points of view contributed by suppliers and users will be openly available online.
 
 ## Repository Contents
-**Contributors.md** - 
+**Contributors.md** - Organisations and individuals who are contributing to the discovery and alpha work.
+
+**Calendar.md** - 
