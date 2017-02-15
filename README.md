@@ -3,7 +3,7 @@ Discovery and alpha work is being carried out by NHS Digital in collaboration wi
 
 This respository holds information to support this work.
 
-The approach to the work will be based on the <a href="https://www.gov.uk/service-manual" target="_blank">GOV.UK Service Manual</a> agile delivery. This defines two initial phases of discovery and alpha.
+The approach to the work is based on the <a href="https://www.gov.uk/service-manual" target="_blank">GOV.UK Service Manual</a> agile delivery. This defines two initial phases of discovery and alpha.
 
 ## Discovery Phase
 Given that <a href="https://www.england.nhs.uk/wp-content/uploads/2016/11/healthy-children-transforming-child-health-info.pdf" target="_blank">Healthy Children: Transforming Child Health Information</a> has already involved extensive consultation and user research, the discovery phase will be focused on elaborating and consulting on key requirements (business, functional and technical), where needed. It will not involve any service design or user journey mappings.
