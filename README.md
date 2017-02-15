@@ -26,14 +26,14 @@ The outputs delivered will be:
 3.	A recommendation, with supporting evidence, of which prototype, if any, is the best viable option to progress to beta phase
 
 ## Ways of working
-Open to all - Opportunity for supplier and user communities to become involved to both influence and learn.
+**Open to all** - Opportunity for supplier and user communities to become involved to both influence and learn.
 
-Contribution - Seeking different levels of involvement:
+**Contribution** - Seeking different levels of involvement:
 
 * Doers -  suppliers and users who are willing to get their hands dirty trying out aspects of the interop. We would really like at least one primary care, CHIS and ePCHR supplier to be involved.
 * Thinkers – suppliers and users who are willing to publically offer views, advice or critiques.
 * Watchers – suppliers and users who just want to follow progress.
 
-Transparency - All discussions, communications and points of view contributed by suppliers and users will be openly available online.
+**Transparency** - All discussions, communications and points of view contributed by suppliers and users will be openly available online.
 
 
