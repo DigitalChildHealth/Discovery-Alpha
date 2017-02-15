@@ -46,3 +46,4 @@ The outputs delivered will be:
 
 **Contributors.md** - Organisations and individuals who are contributing to the discovery and alpha work.
 
+**Elaborations** - Folder containing collateral and outputs for each requirement elaboration.
