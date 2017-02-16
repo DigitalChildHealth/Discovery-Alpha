@@ -1,5 +1,5 @@
 # Discovery-Alpha
-Discovery and alpha work is being carried out by NHS Digital in collaboration with a wide range of stakeholders, to inform a robust and viable national interop service to enable Digital Child Health.
+Discovery and alpha work is being carried out by NHS Digital in collaboration with a wide range of stakeholders, to inform robust and viable national interop and failsafe services to enable Digital Child Health.
 
 This respository holds information to support this work.
 
@@ -30,7 +30,7 @@ The outputs delivered will be:
 
 **Contribution** - Seeking different levels of involvement:
 
-* Doers -  suppliers and users who are willing to get their hands dirty trying out aspects of the interop. We would really like at least one primary care, CHIS and ePCHR supplier to be involved.
+* Doers -  suppliers and users who are willing to get their hands dirty trying out aspects of the interop and failsafe. We would really like at least one primary care, CHIS and ePCHR supplier to be involved.
 * Thinkers – suppliers and users who are willing to publically offer views, advice or critiques.
 * Watchers – suppliers and users who just want to follow progress.
 
@@ -38,7 +38,7 @@ The outputs delivered will be:
 
 ## Repository Contents
 
-**Overview** - Folder containing overview of the interop service.
+**Overview** - Folder containing overview of the services.
 
 **Calendar.md** - Calendar of collaboration events.
 
