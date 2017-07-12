@@ -51,3 +51,6 @@ The outputs delivered will be:
 **Prototypes** - Folder containing information about each prototype.
 
 **Outputs** - Folder containing final discovery and alpha work deliverables.
+
+## Events
+The current experimental FHIR profiles for the child health events can be found <a href="https://nhsconnect.github.io/Digital-Child-Health/Generated/Chapter.1.About/index.html" target="_blank">here</a>.
