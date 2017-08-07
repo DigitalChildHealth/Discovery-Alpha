@@ -44,7 +44,7 @@ The outputs delivered will be:
 
 [**Collaboration Events**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Collaboration%20Events/README.md) - Folder containing collateral and outputs for each collaboration event.
 
-**Contributors.md** - Organisations and individuals who are contributing to the discovery and alpha work.
+[**Contributors.md**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Contributors.md) - Organisations and individuals who are contributing to the discovery and alpha work.
 
 **Stories** - Folder containing user stories.
 
