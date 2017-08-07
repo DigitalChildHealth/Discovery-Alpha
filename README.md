@@ -50,7 +50,7 @@ The outputs delivered will be:
 
 [**Elaboration**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Elaboration/README.md) - Folder containing collateral and outputs for each requirement elaboration.
 
-**Prototypes** - Folder containing information about each prototype.
+[**Prototypes**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Prototypes/README.md) - Folder containing information about each prototype.
 
 **Outputs** - Folder containing final discovery and alpha work deliverables.
 
