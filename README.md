@@ -40,7 +40,7 @@ The outputs delivered will be:
 
 **Overview** - Folder containing overview of the services.
 
-**Calendar.md** - Calendar of collaboration events.
+[**Calendar.md**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Contributors.md) - Calendar of collaboration events.
 
 **Collaboration Events** - Folder containing collateral and outputs for each collaboration event.
 
