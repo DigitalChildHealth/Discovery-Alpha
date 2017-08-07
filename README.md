@@ -42,7 +42,7 @@ The outputs delivered will be:
 
 [**Calendar.md**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Calendar.md) - Calendar of collaboration events.
 
-**Collaboration Events** - Folder containing collateral and outputs for each collaboration event.
+[**Collaboration Events**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Collaboration%20Events/README.md) - Folder containing collateral and outputs for each collaboration event.
 
 **Contributors.md** - Organisations and individuals who are contributing to the discovery and alpha work.
 
