@@ -48,7 +48,7 @@ The outputs delivered will be:
 
 [**Stories**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Stories/Index.md) - Folder containing user stories.
 
-**Elaboration** - Folder containing collateral and outputs for each requirement elaboration.
+[**Elaboration**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Elaboration/README.md) - Folder containing collateral and outputs for each requirement elaboration.
 
 **Prototypes** - Folder containing information about each prototype.
 
