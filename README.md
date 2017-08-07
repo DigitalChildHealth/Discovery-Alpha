@@ -46,7 +46,7 @@ The outputs delivered will be:
 
 [**Contributors.md**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Contributors.md) - Organisations and individuals who are contributing to the discovery and alpha work.
 
-**Stories** - Folder containing user stories.
+[**Stories**](https://github.com/DigitalChildHealth/Discovery-Alpha/blob/master/Stories/Index.md) - Folder containing user stories.
 
 **Elaboration** - Folder containing collateral and outputs for each requirement elaboration.
 
